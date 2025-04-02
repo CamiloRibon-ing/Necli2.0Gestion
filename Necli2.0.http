@@ -1,0 +1,6 @@
+@Necli2._0_HostAddress = http://localhost:5117
+
+GET {{Necli2._0_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
