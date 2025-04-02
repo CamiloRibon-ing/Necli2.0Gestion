@@ -1,57 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\camil\\source\\repos\\Necli2.0\\",
+  "WorkspaceRootPath": "C:\\Users\\camil\\source\\repos\\Necli2.0GESTION\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D74F95A-9423-431D-9227-85867008D8D6}|..\\Necli3.0\\Necli3.0.csproj|c:\\users\\camil\\source\\repos\\necli3.0\\controllers\\cuentasusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA07CA86-2621-4D59-A8A8-2706DC75D9EC}|..\\program.cs\\program.cs.csproj|c:\\users\\camil\\source\\repos\\program.cs\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74F95A-9423-431D-9227-85867008D8D6}|..\\Necli3.0\\Necli3.0.csproj|c:\\users\\camil\\source\\repos\\necli3.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA07CA86-2621-4D59-A8A8-2706DC75D9EC}|..\\program.cs\\program.cs.csproj|c:\\users\\camil\\source\\repos\\program.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA07CA86-2621-4D59-A8A8-2706DC75D9EC}|..\\program.cs\\program.cs.csproj|c:\\users\\camil\\source\\repos\\program.cs\\program.cs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74F95A-9423-431D-9227-85867008D8D6}|..\\Necli3.0\\Necli3.0.csproj|c:\\users\\camil\\source\\repos\\necli3.0\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F238783-45C4-4AFF-8D5C-49F2A133C047}|..\\NequiGestion.Logica\\NecliGestion.Logica.csproj|c:\\users\\camil\\source\\repos\\nequigestion.logica\\services\\cuentaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED106971-AF49-48BC-A947-CE2E0FE5372F}|..\\NequiGestion.Persistencia\\NecliGestion.Persistencia.csproj|c:\\users\\camil\\source\\repos\\nequigestion.persistencia\\cuentasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F238783-45C4-4AFF-8D5C-49F2A133C047}|..\\NequiGestion.Logica\\NecliGestion.Logica.csproj|c:\\users\\camil\\source\\repos\\nequigestion.logica\\dtos\\eliminarcuentadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24162D45-8B82-4F5D-8815-9085BECF0019}|..\\NecliGestion.Entidades2.0\\NecliGestion.Entidades.csproj|c:\\users\\camil\\source\\repos\\necligestion.entidades2.0\\cuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F238783-45C4-4AFF-8D5C-49F2A133C047}|..\\NequiGestion.Logica\\NecliGestion.Logica.csproj|c:\\users\\camil\\source\\repos\\nequigestion.logica\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D74F95A-9423-431D-9227-85867008D8D6}|..\\Necli3.0\\Necli3.0.csproj|c:\\users\\camil\\source\\repos\\necli3.0\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24162D45-8B82-4F5D-8815-9085BECF0019}|..\\NecliGestion.Entidades2.0\\NecliGestion.Entidades.csproj|c:\\users\\camil\\source\\repos\\necligestion.entidades2.0\\transacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED106971-AF49-48BC-A947-CE2E0FE5372F}|..\\NequiGestion.Persistencia\\NecliGestion.Persistencia.csproj|c:\\users\\camil\\source\\repos\\nequigestion.persistencia\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3F238783-45C4-4AFF-8D5C-49F2A133C047}|..\\NequiGestion.Logica\\NecliGestion.Logica.csproj|c:\\users\\camil\\source\\repos\\nequigestion.logica\\services\\transaccionesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24162D45-8B82-4F5D-8815-9085BECF0019}|..\\NecliGestion.Entidades2.0\\NecliGestion.Entidades.csproj|c:\\users\\camil\\source\\repos\\necligestion.entidades2.0\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F238783-45C4-4AFF-8D5C-49F2A133C047}|..\\NequiGestion.Logica\\NecliGestion.Logica.csproj|c:\\users\\camil\\source\\repos\\nequigestion.logica\\dtos\\actualizarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED106971-AF49-48BC-A947-CE2E0FE5372F}|..\\NequiGestion.Persistencia\\NecliGestion.Persistencia.csproj|c:\\users\\camil\\source\\repos\\nequigestion.persistencia\\transaccionesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D74F95A-9423-431D-9227-85867008D8D6}|..\\Necli3.0\\Necli3.0.csproj|c:\\users\\camil\\source\\repos\\necli3.0\\controllers\\transaccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F238783-45C4-4AFF-8D5C-49F2A133C047}|..\\NequiGestion.Logica\\NecliGestion.Logica.csproj|c:\\users\\camil\\source\\repos\\nequigestion.logica\\dtos\\registrartransacciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D74F95A-9423-431D-9227-85867008D8D6}|..\\Necli3.0\\Necli3.0.csproj|c:\\users\\camil\\source\\repos\\necli3.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F238783-45C4-4AFF-8D5C-49F2A133C047}|..\\NequiGestion.Logica\\NecliGestion.Logica.csproj|c:\\users\\camil\\source\\repos\\nequigestion.logica\\dtos\\consultartransacciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED106971-AF49-48BC-A947-CE2E0FE5372F}|..\\NequiGestion.Persistencia\\NecliGestion.Persistencia.csproj|c:\\users\\camil\\source\\repos\\nequigestion.persistencia\\necligestion.persistencia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F238783-45C4-4AFF-8D5C-49F2A133C047}|..\\NequiGestion.Logica\\NecliGestion.Logica.csproj|c:\\users\\camil\\source\\repos\\nequigestion.logica\\dtos\\consultarcuentadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -60,10 +33,55 @@
       "AbsoluteMoniker": "D:0:0:{3F238783-45C4-4AFF-8D5C-49F2A133C047}|..\\NequiGestion.Logica\\NecliGestion.Logica.csproj|c:\\users\\camil\\source\\repos\\nequigestion.logica\\dtos\\actualizarcuentadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F238783-45C4-4AFF-8D5C-49F2A133C047}|..\\NequiGestion.Logica\\NecliGestion.Logica.csproj|c:\\users\\camil\\source\\repos\\nequigestion.logica\\necligestion.logica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{1D74F95A-9423-431D-9227-85867008D8D6}|..\\Necli3.0\\Necli3.0.csproj|c:\\users\\camil\\source\\repos\\necli3.0\\necli3.0.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA07CA86-2621-4D59-A8A8-2706DC75D9EC}|..\\program.cs\\program.cs.csproj|c:\\users\\camil\\source\\repos\\program.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D74F95A-9423-431D-9227-85867008D8D6}|..\\Necli3.0\\Necli3.0.csproj|c:\\users\\camil\\source\\repos\\necli3.0\\controllers\\cuentasusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74F95A-9423-431D-9227-85867008D8D6}|..\\Necli3.0\\Necli3.0.csproj|c:\\users\\camil\\source\\repos\\necli3.0\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24162D45-8B82-4F5D-8815-9085BECF0019}|..\\NecliGestion.Entidades2.0\\NecliGestion.Entidades.csproj|c:\\users\\camil\\source\\repos\\necligestion.entidades2.0\\cuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24162D45-8B82-4F5D-8815-9085BECF0019}|..\\NecliGestion.Entidades2.0\\NecliGestion.Entidades.csproj|c:\\users\\camil\\source\\repos\\necligestion.entidades2.0\\transacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F238783-45C4-4AFF-8D5C-49F2A133C047}|..\\NequiGestion.Logica\\NecliGestion.Logica.csproj|c:\\users\\camil\\source\\repos\\nequigestion.logica\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED106971-AF49-48BC-A947-CE2E0FE5372F}|..\\NequiGestion.Persistencia\\NecliGestion.Persistencia.csproj|c:\\users\\camil\\source\\repos\\nequigestion.persistencia\\cuentasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F238783-45C4-4AFF-8D5C-49F2A133C047}|..\\NequiGestion.Logica\\NecliGestion.Logica.csproj|c:\\users\\camil\\source\\repos\\nequigestion.logica\\dtos\\eliminarcuentadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED106971-AF49-48BC-A947-CE2E0FE5372F}|..\\NequiGestion.Persistencia\\NecliGestion.Persistencia.csproj|c:\\users\\camil\\source\\repos\\nequigestion.persistencia\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24162D45-8B82-4F5D-8815-9085BECF0019}|..\\NecliGestion.Entidades2.0\\NecliGestion.Entidades.csproj|c:\\users\\camil\\source\\repos\\necligestion.entidades2.0\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED106971-AF49-48BC-A947-CE2E0FE5372F}|..\\NequiGestion.Persistencia\\NecliGestion.Persistencia.csproj|c:\\users\\camil\\source\\repos\\nequigestion.persistencia\\transaccionesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F238783-45C4-4AFF-8D5C-49F2A133C047}|..\\NequiGestion.Logica\\NecliGestion.Logica.csproj|c:\\users\\camil\\source\\repos\\nequigestion.logica\\dtos\\actualizarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74F95A-9423-431D-9227-85867008D8D6}|..\\Necli3.0\\Necli3.0.csproj|c:\\users\\camil\\source\\repos\\necli3.0\\controllers\\transaccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D74F95A-9423-431D-9227-85867008D8D6}|..\\Necli3.0\\Necli3.0.csproj|c:\\users\\camil\\source\\repos\\necli3.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F238783-45C4-4AFF-8D5C-49F2A133C047}|..\\NequiGestion.Logica\\NecliGestion.Logica.csproj|c:\\users\\camil\\source\\repos\\nequigestion.logica\\dtos\\registrartransacciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F238783-45C4-4AFF-8D5C-49F2A133C047}|..\\NequiGestion.Logica\\NecliGestion.Logica.csproj|c:\\users\\camil\\source\\repos\\nequigestion.logica\\dtos\\consultartransacciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F238783-45C4-4AFF-8D5C-49F2A133C047}|..\\NequiGestion.Logica\\NecliGestion.Logica.csproj|c:\\users\\camil\\source\\repos\\nequigestion.logica\\necligestion.logica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -73,132 +91,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\NequiGestion.Logica\\Services\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "..\\NequiGestion.Logica\\Services\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\camil\\source\\repos\\NequiGestion.Logica\\Services\\UsuarioService.cs",
-              "RelativeToolTip": "..\\NequiGestion.Logica\\Services\\UsuarioService.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAgwEEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T02:00:15.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CuentaService.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\NequiGestion.Logica\\Services\\CuentaService.cs",
-              "RelativeDocumentMoniker": "..\\NequiGestion.Logica\\Services\\CuentaService.cs",
-              "ToolTip": "C:\\Users\\camil\\source\\repos\\NequiGestion.Logica\\Services\\CuentaService.cs",
-              "RelativeToolTip": "..\\NequiGestion.Logica\\Services\\CuentaService.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAqwDMAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T05:50:15.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Cuentas.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\NecliGestion.Entidades2.0\\Cuentas.cs",
-              "RelativeDocumentMoniker": "..\\NecliGestion.Entidades2.0\\Cuentas.cs",
-              "ToolTip": "C:\\Users\\camil\\source\\repos\\NecliGestion.Entidades2.0\\Cuentas.cs",
-              "RelativeToolTip": "..\\NecliGestion.Entidades2.0\\Cuentas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T14:33:45.092Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Necli3.0\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Necli3.0\\appsettings.json",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\Necli3.0\\appsettings.json",
+              "RelativeToolTip": "..\\Necli3.0\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-02T07:21:39.115Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CuentasRepository.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\NequiGestion.Persistencia\\CuentasRepository.cs",
-              "RelativeDocumentMoniker": "..\\NequiGestion.Persistencia\\CuentasRepository.cs",
-              "ToolTip": "C:\\Users\\camil\\source\\repos\\NequiGestion.Persistencia\\CuentasRepository.cs",
-              "RelativeToolTip": "..\\NequiGestion.Persistencia\\CuentasRepository.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAuwHkAAABOAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\program.cs\\Program.cs",
+              "RelativeDocumentMoniker": "..\\program.cs\\Program.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\program.cs\\Program.cs",
+              "RelativeToolTip": "..\\program.cs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T05:56:05.77Z",
+              "WhenOpened": "2025-03-31T07:37:02.953Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CuentasUserController.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Necli3.0\\Controllers\\CuentasUserController.cs",
-              "RelativeDocumentMoniker": "..\\Necli3.0\\Controllers\\CuentasUserController.cs",
-              "ToolTip": "C:\\Users\\camil\\source\\repos\\Necli3.0\\Controllers\\CuentasUserController.cs",
-              "RelativeToolTip": "..\\Necli3.0\\Controllers\\CuentasUserController.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAowDQAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T08:06:27.2Z",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\program.cs\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\program.cs\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\program.cs\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\program.cs\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-02T07:19:14.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Necli3.0\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\Necli3.0\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\Necli3.0\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\Necli3.0\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-02T07:17:50.538Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "EliminarCuentaDto.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\NequiGestion.Logica\\Dtos\\EliminarCuentaDto.cs",
-              "RelativeDocumentMoniker": "..\\NequiGestion.Logica\\Dtos\\EliminarCuentaDto.cs",
-              "ToolTip": "C:\\Users\\camil\\source\\repos\\NequiGestion.Logica\\Dtos\\EliminarCuentaDto.cs",
-              "RelativeToolTip": "..\\NequiGestion.Logica\\Dtos\\EliminarCuentaDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T06:34:45.161Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Necli3.0\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "..\\Necli3.0\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\camil\\source\\repos\\Necli3.0\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "..\\Necli3.0\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAqwCwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T02:07:27.864Z",
+              "Title": "program.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\program.cs\\program.cs.csproj",
+              "RelativeDocumentMoniker": "..\\program.cs\\program.cs.csproj",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\program.cs\\program.cs.csproj",
+              "RelativeToolTip": "..\\program.cs\\program.cs.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-02T07:17:11.697Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Transacciones.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\NecliGestion.Entidades2.0\\Transacciones.cs",
-              "RelativeDocumentMoniker": "..\\NecliGestion.Entidades2.0\\Transacciones.cs",
-              "ToolTip": "C:\\Users\\camil\\source\\repos\\NecliGestion.Entidades2.0\\Transacciones.cs",
-              "RelativeToolTip": "..\\NecliGestion.Entidades2.0\\Transacciones.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T06:14:53.937Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\NequiGestion.Persistencia\\UsuarioRepository.cs",
-              "RelativeDocumentMoniker": "..\\NequiGestion.Persistencia\\UsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\camil\\source\\repos\\NequiGestion.Persistencia\\UsuarioRepository.cs",
-              "RelativeToolTip": "..\\NequiGestion.Persistencia\\UsuarioRepository.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDkAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T02:05:10.246Z",
+              "Title": "NecliGestion.Persistencia",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\NequiGestion.Persistencia\\NecliGestion.Persistencia.csproj",
+              "RelativeDocumentMoniker": "..\\NequiGestion.Persistencia\\NecliGestion.Persistencia.csproj",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\NequiGestion.Persistencia\\NecliGestion.Persistencia.csproj",
+              "RelativeToolTip": "..\\NequiGestion.Persistencia\\NecliGestion.Persistencia.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-02T07:16:07.894Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "ActualizarCuentaDto.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\NequiGestion.Logica\\Dtos\\ActualizarCuentaDto.cs",
+              "RelativeDocumentMoniker": "..\\NequiGestion.Logica\\Dtos\\ActualizarCuentaDto.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\NequiGestion.Logica\\Dtos\\ActualizarCuentaDto.cs",
+              "RelativeToolTip": "..\\NequiGestion.Logica\\Dtos\\ActualizarCuentaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T14:33:53.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Necli3.0.http",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Necli3.0\\Necli3.0.http",
+              "RelativeDocumentMoniker": "..\\Necli3.0\\Necli3.0.http",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\Necli3.0\\Necli3.0.http",
+              "RelativeToolTip": "..\\Necli3.0\\Necli3.0.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-02T07:15:07.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "TransaccionesService.cs",
               "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\NequiGestion.Logica\\Services\\TransaccionesService.cs",
               "RelativeDocumentMoniker": "..\\NequiGestion.Logica\\Services\\TransaccionesService.cs",
@@ -211,98 +212,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\NecliGestion.Entidades2.0\\Usuario.cs",
-              "RelativeDocumentMoniker": "..\\NecliGestion.Entidades2.0\\Usuario.cs",
-              "ToolTip": "C:\\Users\\camil\\source\\repos\\NecliGestion.Entidades2.0\\Usuario.cs",
-              "RelativeToolTip": "..\\NecliGestion.Entidades2.0\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "CuentaService.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\NequiGestion.Logica\\Services\\CuentaService.cs",
+              "RelativeDocumentMoniker": "..\\NequiGestion.Logica\\Services\\CuentaService.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\NequiGestion.Logica\\Services\\CuentaService.cs",
+              "RelativeToolTip": "..\\NequiGestion.Logica\\Services\\CuentaService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T02:02:48.017Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "TransaccionesRepository.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\NequiGestion.Persistencia\\TransaccionesRepository.cs",
-              "RelativeDocumentMoniker": "..\\NequiGestion.Persistencia\\TransaccionesRepository.cs",
-              "ToolTip": "C:\\Users\\camil\\source\\repos\\NequiGestion.Persistencia\\TransaccionesRepository.cs",
-              "RelativeToolTip": "..\\NequiGestion.Persistencia\\TransaccionesRepository.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAQwCoAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T02:03:01.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ActualizarUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\NequiGestion.Logica\\Dtos\\ActualizarUsuario.cs",
-              "RelativeDocumentMoniker": "..\\NequiGestion.Logica\\Dtos\\ActualizarUsuario.cs",
-              "ToolTip": "C:\\Users\\camil\\source\\repos\\NequiGestion.Logica\\Dtos\\ActualizarUsuario.cs",
-              "RelativeToolTip": "..\\NequiGestion.Logica\\Dtos\\ActualizarUsuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T19:55:17.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "TransaccionController.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Necli3.0\\Controllers\\TransaccionController.cs",
-              "RelativeDocumentMoniker": "..\\Necli3.0\\Controllers\\TransaccionController.cs",
-              "ToolTip": "C:\\Users\\camil\\source\\repos\\Necli3.0\\Controllers\\TransaccionController.cs",
-              "RelativeToolTip": "..\\Necli3.0\\Controllers\\TransaccionController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwEAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T07:00:53.325Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Necli3.0\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Necli3.0\\Program.cs",
-              "ToolTip": "C:\\Users\\camil\\source\\repos\\Necli3.0\\Program.cs",
-              "RelativeToolTip": "..\\Necli3.0\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T07:37:11.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "RegistrarTransaccionDto.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\NequiGestion.Logica\\Dtos\\RegistrarTransaccionDto.cs",
-              "RelativeDocumentMoniker": "..\\NequiGestion.Logica\\Dtos\\RegistrarTransaccionDto.cs",
-              "ToolTip": "C:\\Users\\camil\\source\\repos\\NequiGestion.Logica\\Dtos\\RegistrarTransaccionDto.cs",
-              "RelativeToolTip": "..\\NequiGestion.Logica\\Dtos\\RegistrarTransaccionDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T06:15:18.625Z",
+              "WhenOpened": "2025-03-31T05:50:15.756Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "ConsultarTransaccionDto.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\NequiGestion.Logica\\Dtos\\ConsultarTransaccionDto.cs",
-              "RelativeDocumentMoniker": "..\\NequiGestion.Logica\\Dtos\\ConsultarTransaccionDto.cs",
-              "ToolTip": "C:\\Users\\camil\\source\\repos\\NequiGestion.Logica\\Dtos\\ConsultarTransaccionDto.cs",
-              "RelativeToolTip": "..\\NequiGestion.Logica\\Dtos\\ConsultarTransaccionDto.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Title": "CuentasRepository.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\NequiGestion.Persistencia\\CuentasRepository.cs",
+              "RelativeDocumentMoniker": "..\\NequiGestion.Persistencia\\CuentasRepository.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\NequiGestion.Persistencia\\CuentasRepository.cs",
+              "RelativeToolTip": "..\\NequiGestion.Persistencia\\CuentasRepository.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAIAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T06:15:26.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T05:56:05.77Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 15,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\NequiGestion.Logica\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "..\\NequiGestion.Logica\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\NequiGestion.Logica\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "..\\NequiGestion.Logica\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T02:00:15.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Transacciones.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\NecliGestion.Entidades2.0\\Transacciones.cs",
+              "RelativeDocumentMoniker": "..\\NecliGestion.Entidades2.0\\Transacciones.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\NecliGestion.Entidades2.0\\Transacciones.cs",
+              "RelativeToolTip": "..\\NecliGestion.Entidades2.0\\Transacciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T06:14:53.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ConsultarCuentaDto.cs",
               "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\NequiGestion.Logica\\Dtos\\ConsultarCuentaDto.cs",
               "RelativeDocumentMoniker": "..\\NequiGestion.Logica\\Dtos\\ConsultarCuentaDto.cs",
@@ -310,23 +269,162 @@
               "RelativeToolTip": "..\\NequiGestion.Logica\\Dtos\\ConsultarCuentaDto.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T06:04:12.803Z"
+              "WhenOpened": "2025-03-31T06:04:12.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cuentas.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\NecliGestion.Entidades2.0\\Cuentas.cs",
+              "RelativeDocumentMoniker": "..\\NecliGestion.Entidades2.0\\Cuentas.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\NecliGestion.Entidades2.0\\Cuentas.cs",
+              "RelativeToolTip": "..\\NecliGestion.Entidades2.0\\Cuentas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T14:33:45.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CuentasUserController.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Necli3.0\\Controllers\\CuentasUserController.cs",
+              "RelativeDocumentMoniker": "..\\Necli3.0\\Controllers\\CuentasUserController.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\Necli3.0\\Controllers\\CuentasUserController.cs",
+              "RelativeToolTip": "..\\Necli3.0\\Controllers\\CuentasUserController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAA8wA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T08:06:27.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EliminarCuentaDto.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\NequiGestion.Logica\\Dtos\\EliminarCuentaDto.cs",
+              "RelativeDocumentMoniker": "..\\NequiGestion.Logica\\Dtos\\EliminarCuentaDto.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\NequiGestion.Logica\\Dtos\\EliminarCuentaDto.cs",
+              "RelativeToolTip": "..\\NequiGestion.Logica\\Dtos\\EliminarCuentaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T06:34:45.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Necli3.0\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "..\\Necli3.0\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\Necli3.0\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "..\\Necli3.0\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T02:07:27.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "ActualizarCuentaDto.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\NequiGestion.Logica\\Dtos\\ActualizarCuentaDto.cs",
-              "RelativeDocumentMoniker": "..\\NequiGestion.Logica\\Dtos\\ActualizarCuentaDto.cs",
-              "ToolTip": "C:\\Users\\camil\\source\\repos\\NequiGestion.Logica\\Dtos\\ActualizarCuentaDto.cs",
-              "RelativeToolTip": "..\\NequiGestion.Logica\\Dtos\\ActualizarCuentaDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\NequiGestion.Persistencia\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "..\\NequiGestion.Persistencia\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\NequiGestion.Persistencia\\UsuarioRepository.cs",
+              "RelativeToolTip": "..\\NequiGestion.Persistencia\\UsuarioRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T14:33:53.693Z"
+              "WhenOpened": "2025-03-31T02:05:10.246Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\NecliGestion.Entidades2.0\\Usuario.cs",
+              "RelativeDocumentMoniker": "..\\NecliGestion.Entidades2.0\\Usuario.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\NecliGestion.Entidades2.0\\Usuario.cs",
+              "RelativeToolTip": "..\\NecliGestion.Entidades2.0\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T02:02:48.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TransaccionesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\NequiGestion.Persistencia\\TransaccionesRepository.cs",
+              "RelativeDocumentMoniker": "..\\NequiGestion.Persistencia\\TransaccionesRepository.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\NequiGestion.Persistencia\\TransaccionesRepository.cs",
+              "RelativeToolTip": "..\\NequiGestion.Persistencia\\TransaccionesRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwCoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T02:03:01.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ActualizarUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\NequiGestion.Logica\\Dtos\\ActualizarUsuario.cs",
+              "RelativeDocumentMoniker": "..\\NequiGestion.Logica\\Dtos\\ActualizarUsuario.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\NequiGestion.Logica\\Dtos\\ActualizarUsuario.cs",
+              "RelativeToolTip": "..\\NequiGestion.Logica\\Dtos\\ActualizarUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:55:17.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TransaccionController.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Necli3.0\\Controllers\\TransaccionController.cs",
+              "RelativeDocumentMoniker": "..\\Necli3.0\\Controllers\\TransaccionController.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\Necli3.0\\Controllers\\TransaccionController.cs",
+              "RelativeToolTip": "..\\Necli3.0\\Controllers\\TransaccionController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T07:00:53.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Necli3.0\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Necli3.0\\Program.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\Necli3.0\\Program.cs",
+              "RelativeToolTip": "..\\Necli3.0\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T07:37:11.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RegistrarTransaccionDto.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\NequiGestion.Logica\\Dtos\\RegistrarTransaccionDto.cs",
+              "RelativeDocumentMoniker": "..\\NequiGestion.Logica\\Dtos\\RegistrarTransaccionDto.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\NequiGestion.Logica\\Dtos\\RegistrarTransaccionDto.cs",
+              "RelativeToolTip": "..\\NequiGestion.Logica\\Dtos\\RegistrarTransaccionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T06:15:18.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ConsultarTransaccionDto.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\NequiGestion.Logica\\Dtos\\ConsultarTransaccionDto.cs",
+              "RelativeDocumentMoniker": "..\\NequiGestion.Logica\\Dtos\\ConsultarTransaccionDto.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\NequiGestion.Logica\\Dtos\\ConsultarTransaccionDto.cs",
+              "RelativeToolTip": "..\\NequiGestion.Logica\\Dtos\\ConsultarTransaccionDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T06:15:26.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "NecliGestion.Logica.csproj",
               "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\NequiGestion.Logica\\NecliGestion.Logica.csproj",
               "RelativeDocumentMoniker": "..\\NequiGestion.Logica\\NecliGestion.Logica.csproj",
@@ -334,19 +432,8 @@
               "RelativeToolTip": "..\\NequiGestion.Logica\\NecliGestion.Logica.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-31T14:33:49.09Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\program.cs\\Program.cs",
-              "RelativeDocumentMoniker": "..\\program.cs\\Program.cs",
-              "ToolTip": "C:\\Users\\camil\\source\\repos\\program.cs\\Program.cs",
-              "RelativeToolTip": "..\\program.cs\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T07:37:02.953Z"
+              "WhenOpened": "2025-03-31T14:33:49.09Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,8 @@
+C:\Users\camil\source\repos\Necli2.0GESTION\obj\Debug\net8.0\Necli2.0.csproj.AssemblyReference.cache
+C:\Users\camil\source\repos\Necli2.0GESTION\obj\Debug\net8.0\Necli2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\source\repos\Necli2.0GESTION\obj\Debug\net8.0\Necli2.0.AssemblyInfoInputs.cache
+C:\Users\camil\source\repos\Necli2.0GESTION\obj\Debug\net8.0\Necli2.0.AssemblyInfo.cs
+C:\Users\camil\source\repos\Necli2.0GESTION\obj\Debug\net8.0\Necli2.0.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\Necli2.0GESTION\obj\Debug\net8.0\Necli2.0.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\camil\source\repos\Necli2.0GESTION\obj\Debug\net8.0\Necli2.0.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\camil\source\repos\Necli2.0GESTION\obj\Debug\net8.0\Necli2.0.sourcelink.json
