@@ -1,0 +1,30 @@
+.# Ignore build output
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore VS Code
+.vscode/
+
+# Ignore Rider
+.idea/
+
+# Ignore JetBrains
+*.DotSettings.user
+
+# Ignore ASP.NET folders
+App_Data/
+App_Start/
+
+# Ignore system files
+Thumbs.db
+.DS_Store
+
+# Ignore publish
+publish/
+.vs/ 
